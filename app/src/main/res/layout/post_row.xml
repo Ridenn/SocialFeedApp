@@ -9,7 +9,7 @@
     <TextView
         android:id="@+id/mainText"
         android:layout_width="0dp"
-        android:text="Texto genérico de post bla bla bla bla bla."
+        tools:text="Texto genérico de post bla bla bla bla bla."
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
