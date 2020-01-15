@@ -1,2 +1,2 @@
 # SocialFeedApp
-App para estudos de Kotlin + Jetpack
+App para estudos de Android Kotlin
